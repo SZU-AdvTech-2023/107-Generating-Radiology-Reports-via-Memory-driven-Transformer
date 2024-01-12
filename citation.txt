@@ -1,0 +1,6 @@
+@inproceedings{REPO107,
+    author = "Chen, Zhihong and Song, Yan and Chang, Tsung-Hui and Wan, Xiang",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+    title = "{Generating Radiology Reports via Memory-driven Transformer}",
+    year = "2020"
+}
